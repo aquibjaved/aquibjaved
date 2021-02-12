@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on competetive intelligence (NLP, Data Linkage, Computer Vision, Neural Search) 
 
-🌱 I’m currently learning Linear Algebra, Quantum mechanics, and always PYTHON coding
+🌱 I’m currently learning Linear Algebra, QC, IPFS, and always PYTHON coding
 
 💬 Ask me about Statistical ML, Deep Learning
 
