@@ -5,7 +5,7 @@
 
 
 
-🔭 I’m currently working on competetive intelligence (NLP, Data Linkage, Computer Vision, Neural Search) 
+🔭 I’m currently working on competitive intelligence (NLP, Data Linkage, Computer Vision, Neural Search) 
 
 🌱 I’m currently learning Linear Algebra, QC, IPFS, and always PYTHON coding
 
