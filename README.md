@@ -11,8 +11,5 @@
 
 💬 Ask me about Statistical ML, Deep Learning
 
-📫 How to reach me: LinkedIn(https://www.linkedin.com/in/aquib-javed-khan/)
 
 [![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibjaved&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
